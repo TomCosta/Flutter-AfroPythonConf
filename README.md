@@ -6,7 +6,7 @@
 
 ![version][version-badge] ![Idioma][idioma] ![status][status-emprogresso]
 
-### Projedo workshop AfroPython Conf
+### Projeto workshop AfroPython Conf
 
 Aplicativo Flutter Calculadora de IMC.
 
@@ -19,11 +19,12 @@ Alguns recursos para você começar, se este for o seu primeiro projeto Flutter:
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-Para obter ajuda sobre como iniciar o Flutter, consulte nosso
-[online documentation](https://flutter.dev/docs), que oferece tutoriais, amostras, orientações sobre desenvolvimento móvel e uma referência completa da API.
+Para obter mais ajuda sobre como iniciar o Flutter, consulte a
+[documentação online](https://flutter.dev/docs), que oferece tutoriais, amostras, orientações sobre desenvolvimento móvel e uma referência completa da API.
 
 ------------------------------------------
-*By Everton (Tom) Costa.*
+Com carinho para os irmãos do AfroPython.
+*Everton (Tom) Costa.*
 
 [CHANGELOG]: ./CHANGELOG.md
 [version-badge]: https://img.shields.io/badge/version-1.0.0-blue.svg
