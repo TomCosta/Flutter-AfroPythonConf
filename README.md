@@ -16,14 +16,14 @@ Este projeto é um ponto de partida para um aplicativo Flutter.
 
 Alguns recursos para você começar, se este for o seu primeiro projeto Flutter:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Lab: Um primeiro aplicativo Flutter](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Exemplos úteis de Flutter](https://flutter.dev/docs/cookbook)
 
 Para obter mais ajuda sobre como iniciar o Flutter, consulte a
-[documentação online](https://flutter.dev/docs), que oferece tutoriais, amostras, orientações sobre desenvolvimento móvel e uma referência completa da API.
+[documentação online](https://flutter.dev/docs), você vai encontrar tutoriais, amostras, orientações sobre desenvolvimento móvel e uma referência completa da API. *Mas se precisar de uma ajudinha, diz aí!*
 
 ------------------------------------------
-Com carinho para os irmãos do AfroPython.
+Com carinho para os irmãos e irmãs do AfroPython.
 *Everton (Tom) Costa.*
 
 [CHANGELOG]: ./CHANGELOG.md
