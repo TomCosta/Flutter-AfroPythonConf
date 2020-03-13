@@ -6,9 +6,9 @@
 
 ![version][version-badge] ![Idioma][idioma] ![status][status-emprogresso]
 
-### Projeto workshop AfroPython Conf
+### Projeto workshop para a AfroPython Conference
 
-Aplicativo Flutter Calculadora de IMC.
+Aplicativo Calculadora de IMC desenvolvido em Flutter.
 
 ## Getting Started
 
